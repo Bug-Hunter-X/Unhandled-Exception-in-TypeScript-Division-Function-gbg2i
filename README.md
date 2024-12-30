@@ -1,0 +1,1 @@
+This repository demonstrates a common error in TypeScript: unhandled exceptions. The `divide` function throws an error if the divisor is zero, but this error is not handled, causing the program to crash. The solution demonstrates how to handle this exception using a `try...catch` block.
